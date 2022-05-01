@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-// Time: O(M), M is the shortest string length
+// Time: O(N^2), M is the shortest string length
 // Memory: O(M)
 
 bool isPattern(std::string original, std::string prefix)
