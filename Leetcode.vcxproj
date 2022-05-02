@@ -142,6 +142,7 @@
     <ClCompile Include="Leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CommonWordsWithOneOccurence.hpp" />
     <ClInclude Include="GcdOfStrings.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
