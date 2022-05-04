@@ -26,5 +26,8 @@
     <ClInclude Include="CommonWordsWithOneOccurence.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="1238_GrayCode.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -142,6 +142,7 @@
     <ClCompile Include="Leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1238_GrayCode.hpp" />
     <ClInclude Include="CommonWordsWithOneOccurence.hpp" />
     <ClInclude Include="GcdOfStrings.hpp" />
   </ItemGroup>
