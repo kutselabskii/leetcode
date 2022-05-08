@@ -35,5 +35,8 @@
     <ClInclude Include="1781_SubstringsBeauty.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="121_BuySellStocks.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
