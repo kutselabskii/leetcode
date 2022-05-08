@@ -1,15 +1,10 @@
 #include <iostream>
-#include <vector>
 
-#include "1238_GrayCode.hpp"
+#include "1781_SubstringsBeauty.hpp";
 
 int main()
 {
-
-	auto result = circularPermutation(3, 2);
-	for (auto v : result) {
-		std::cout << v << " ";
-	}
+	std::cout << beautySum("aabcbaa") << std::endl;
 	std::cin.get();
 	return 0;
 }

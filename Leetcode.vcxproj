@@ -143,6 +143,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1238_GrayCode.hpp" />
+    <ClInclude Include="1781_SubstringsBeauty.hpp" />
+    <ClInclude Include="225_StackOnQueue.hpp" />
     <ClInclude Include="CommonWordsWithOneOccurence.hpp" />
     <ClInclude Include="GcdOfStrings.hpp" />
   </ItemGroup>
