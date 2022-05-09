@@ -38,5 +38,8 @@
     <ClInclude Include="121_BuySellStocks.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="762_PrimeNumbersOfSetBits.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
