@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GcdOfStrings.hpp">
+    <ClInclude Include="1071_GcdOfStrings.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="CommonWordsWithOneOccurence.hpp">
+    <ClInclude Include="2085_CommonWordsWithOneOccurence.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="1238_GrayCode.hpp">

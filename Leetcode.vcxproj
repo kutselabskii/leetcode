@@ -147,8 +147,8 @@
     <ClInclude Include="1781_SubstringsBeauty.hpp" />
     <ClInclude Include="225_StackOnQueue.hpp" />
     <ClInclude Include="762_PrimeNumbersOfSetBits.hpp" />
-    <ClInclude Include="CommonWordsWithOneOccurence.hpp" />
-    <ClInclude Include="GcdOfStrings.hpp" />
+    <ClInclude Include="2085_CommonWordsWithOneOccurence.hpp" />
+    <ClInclude Include="1071_GcdOfStrings.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
