@@ -41,5 +41,8 @@
     <ClInclude Include="762_PrimeNumbersOfSetBits.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="8_StringToInteger.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

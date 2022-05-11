@@ -1,10 +1,10 @@
 #include <iostream>
 
-#include "762_PrimeNumbersOfSetBits.hpp"
+#include "8_StringToInteger.hpp"
 
 int main()
 {
-	std::cout << countPrimeSetBits(10, 15) << std::endl;
+	std::cout << myAtoi("") << std::endl;
 	std::cin.get();
 	return 0;
 }
