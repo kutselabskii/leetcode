@@ -145,6 +145,7 @@
     <ClInclude Include="121_BuySellStocks.hpp" />
     <ClInclude Include="1238_GrayCode.hpp" />
     <ClInclude Include="1781_SubstringsBeauty.hpp" />
+    <ClInclude Include="21_MergeTwoSortedLists.hpp" />
     <ClInclude Include="225_StackOnQueue.hpp" />
     <ClInclude Include="762_PrimeNumbersOfSetBits.hpp" />
     <ClInclude Include="2085_CommonWordsWithOneOccurence.hpp" />
