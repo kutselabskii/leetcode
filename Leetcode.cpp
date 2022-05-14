@@ -4,8 +4,8 @@
 
 int main()
 {
-	int a[] = {1, 2, 4};
-	int b[] = {1, 3, 4};
+	int a[] = {2};
+	int b[] = {1};
 
 	ListNode *l1 = nullptr, *l2 = nullptr, *h1 = nullptr, *h2 = nullptr;
 
