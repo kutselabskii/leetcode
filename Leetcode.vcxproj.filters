@@ -47,5 +47,8 @@
     <ClInclude Include="21_MergeTwoSortedLists.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="41_FirstMissingPositive.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
