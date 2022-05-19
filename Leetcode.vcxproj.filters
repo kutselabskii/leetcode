@@ -50,5 +50,8 @@
     <ClInclude Include="41_FirstMissingPositive.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="541_ReverseString2.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

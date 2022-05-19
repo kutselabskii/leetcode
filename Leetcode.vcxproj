@@ -148,6 +148,7 @@
     <ClInclude Include="21_MergeTwoSortedLists.hpp" />
     <ClInclude Include="225_StackOnQueue.hpp" />
     <ClInclude Include="41_FirstMissingPositive.hpp" />
+    <ClInclude Include="541_ReverseString2.hpp" />
     <ClInclude Include="762_PrimeNumbersOfSetBits.hpp" />
     <ClInclude Include="2085_CommonWordsWithOneOccurence.hpp" />
     <ClInclude Include="1071_GcdOfStrings.hpp" />
