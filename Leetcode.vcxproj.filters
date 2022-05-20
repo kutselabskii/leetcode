@@ -56,5 +56,8 @@
     <ClInclude Include="894_PossibleFullBinaryTrees.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="977_SquaresOfSortedArray.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,11 +1,13 @@
 #include <iostream>
-#include <string>
+#include <vector>
+using namespace std;
 
-#include "894_PossibleFullBinaryTrees.h"
+#include "977_SquaresOfSortedArray.hpp"
 
 int main()
 {
-	auto result = allPossibleFBT(7);
+	vector<int> l = { -4, -1, 0, 3, 10 };
+	auto result = sortedSquares(l);
 
 	std::cin.get();
 	return 0;
