@@ -152,6 +152,7 @@
     <ClInclude Include="762_PrimeNumbersOfSetBits.hpp" />
     <ClInclude Include="2085_CommonWordsWithOneOccurence.hpp" />
     <ClInclude Include="1071_GcdOfStrings.hpp" />
+    <ClInclude Include="894_PossibleFullBinaryTrees.h" />
     <ClInclude Include="8_StringToInteger.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

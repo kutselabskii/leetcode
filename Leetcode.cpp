@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-#include "541_ReverseString2.hpp"
+#include "894_PossibleFullBinaryTrees.h"
 
 int main()
 {
-	std::cout << reverseStr("abcdefg", 1) << std::endl;
+	auto result = allPossibleFBT(7);
 
 	std::cin.get();
 	return 0;

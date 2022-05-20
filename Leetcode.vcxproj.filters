@@ -53,5 +53,8 @@
     <ClInclude Include="541_ReverseString2.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="894_PossibleFullBinaryTrees.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
