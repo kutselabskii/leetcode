@@ -2,14 +2,14 @@
 #include <vector>
 using namespace std;
 
-#include "977_SquaresOfSortedArray.hpp"
+#include "743_NetworkDelayTime.hpp"
 
 int main()
 {
-	vector<int> l = { -4, -1, 0, 3, 10 };
-	auto result = sortedSquares(l);
+	vector<vector<int>> l = { {2, 1, 1}, {2, 3, 1}, {3, 4, 1} };
+	cout << networkDelayTime(l, 4, 2) << endl;
 
-	std::cin.get();
+	cin.get();
 	return 0;
 }
 

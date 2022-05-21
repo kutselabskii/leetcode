@@ -59,5 +59,8 @@
     <ClInclude Include="977_SquaresOfSortedArray.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="743_NetworkDelayTime.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
