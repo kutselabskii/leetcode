@@ -1,6 +1,7 @@
 #pragma once
 
 #include <vector>
+#include <queue>
 #include <algorithm>
 using namespace std;
 
@@ -19,6 +20,26 @@ void dfs(int node, int time)
     }
 }
 
+void bfs(int k)
+{
+    queue<int> q;
+    q.push(k);
+    best[k] = 0;
+
+    while (!q.empty()) {
+        int node = q.front();
+        q.pop();
+
+        for (auto& way : ways[node]) {
+            int time = best[node] + way.second;
+            if (best[way.first] > time) {
+                best[way.first] = time;
+                q.push(way.first);
+            }
+        }
+    }
+}
+
 int networkDelayTime(vector<vector<int>>& times, int n, int k)
 {
     ways.resize(n + 1);
@@ -32,7 +53,7 @@ int networkDelayTime(vector<vector<int>>& times, int n, int k)
         sort(ways[i].begin(), ways[i].end());
     }
 
-    dfs(k, 0);
+    bfs(k);
 
     int answer = -1;
     for (int i = 1; i <= n; ++i) {
